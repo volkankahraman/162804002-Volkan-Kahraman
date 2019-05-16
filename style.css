@@ -1,0 +1,62 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+#binom{
+    border-right: thin solid #000;
+    border-left: thin solid #000;
+    flex: 0 0 25%;
+}
+#poisson{
+    flex: 0 0 71%;
+    margin-left: 4%;
+    border-right: thin solid #000;
+    border-left: thin solid #000;
+    height: 355px;
+    word-spacing: 10px;
+}
+.variable{
+    
+    border-right: thin solid #000;
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+}
+.p{
+    margin-left: 50px;
+    width: 470px;
+    border: none;
+    font-weight: bold;
+}
+.lambda{
+    margin-left: 20px;
+    width: 860px;
+    border: none;
+    font-weight: bold;
+}
+.p-value{
+    width: 440px;
+    border: none;
+    word-spacing: 25px;
+}
+.lambda-value{
+    width: 859px;
+    border: none;
+    word-spacing: 43px;
+}
+p{
+    margin:0;
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h3{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    margin: 0 auto;
+    width: 1260px;
+}
